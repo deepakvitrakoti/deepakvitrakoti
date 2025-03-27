@@ -1,16 +1,33 @@
-## Hi there 👋
+# Deepak Vitrakoti | Plant Breeding, Genetics, and Genomics  
 
-<!--
-**deepakvitrakoti/deepakvitrakoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page!  
 
-Here are some ideas to get you started:
+I'm a PhD candidate at the **University of Georgia**, specializing in **plant breeding, genetics, and genomics**. My research focuses on understanding the genetic architecture of **bioenergy sorghum**, utilizing **quantitative genetics, QTL mapping, and bioinformatics** to improve biomass production. I have also worked on **cotton genomics**, contributing to understanding the genetic mechanism underlying the naked seed phenotype in cotton.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education  
+- **PhD (2025)**, University of Georgia, Athens, GA, USA *(Advisor: Dr. Andrew Paterson)*  
+- **MS (2019)**, University of Georgia, Athens, GA, USA *(Advisor: Dr. Andrew Paterson)*  
+- **BS (2015)**, Tribhuvan University, Nepal  
+
+## 🛠 Technical Skills  
+- **Bioinformatics Tools**: FastQC, Trimmomatic, BWA, Bowtie2, HISAT2, SAMtools, GATK, Bioconductor, Biopython  
+- **Programming & Scripting**: Python, R, Bash  
+- **Data Analysis**: Machine Learning, SQL, Statistical Analysis  
+- **Genomics & Sequencing**: Bulk Sequencing Analysis, RNA-Seq, WGS, Variant Calling  
+- **High-Performance Computing**: Sapelo2 GACRC Cluster, AWS (EC2, S3)  
+- **Laboratory Skills**: DNA Extraction, PCR, Next-Generation Sequencing (NGS)  
+
+## 💼 Professional Experience  
+- **Graduate Research Assistant** – The Plant Genome Mapping Lab, University of Georgia *(Aug 2016 – Present)*  
+- **Volunteer Consultant** – Statistical Consulting Center *(Aug 2020 – July 2021)*  
+
+## 🌱 Research Interests  
+- **Quantitative Genetics & QTL Mapping**  
+- **Genomic Selection & GWAS**  
+- **Bioinformatics & High-Throughput Sequencing**  
+- **Crop Improvement (Sorghum & Cotton)**  
+
+## 🌐 Connect with Me  
+📧 **Email**: deepakvitrakoti@uga.edu  
+🔗 **GitHub**: [github.com/yourusername](https://github.com/deepakvitrakoti) *(Update with your actual GitHub username)*  
+🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/deepakvitrakoti) *(Optional – add your LinkedIn link if applicable)*  
