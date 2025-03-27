@@ -27,7 +27,14 @@ I'm a PhD candidate at the **University of Georgia**, specializing in **plant br
 - **Bioinformatics & High-Throughput Sequencing**  
 - **Crop Improvement (Sorghum & Cotton)**  
 
+
 ## 🌐 Connect with Me  
 📧 **Email**: deepakvitrakoti@uga.edu  
-🔗 **GitHub**: [github.com/deepakvitrakoti](https://github.com/deepakvitrakoti) 
-🔗 **LinkedIn**: [linkedin.com/in/deepakvitrakoti](https://www.linkedin.com/in/deepakvitrakoti) 
+🔗 **GitHub**: [github.com/deepakvitrakoti](https://github.com/yourusername) 
+🔗 **LinkedIn**: [linkedin.com/in/deepakvitrakoti](https://www.linkedin.com/in/yourprofile)  
+
+
+
+
+
+
