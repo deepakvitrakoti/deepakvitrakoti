@@ -29,5 +29,5 @@ I'm a PhD candidate at the **University of Georgia**, specializing in **plant br
 
 ## 🌐 Connect with Me  
 📧 **Email**: deepakvitrakoti@uga.edu  
-🔗 **GitHub**: [github.com/yourusername](https://github.com/deepakvitrakoti) *(Update with your actual GitHub username)*  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/deepakvitrakoti) *(Optional – add your LinkedIn link if applicable)*  
+🔗 **GitHub**: [github.com/deepakvitrakoti](https://github.com/deepakvitrakoti) 
+🔗 **LinkedIn**: [linkedin.com/in/deepakvitrakoti](https://www.linkedin.com/in/deepakvitrakoti) 
