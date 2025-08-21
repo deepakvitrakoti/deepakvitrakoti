@@ -5,9 +5,10 @@ Welcome to my GitHub page!
 I'm a PhD candidate at the **University of Georgia**, specializing in **plant breeding, genetics, and genomics**. My research focuses on understanding the genetic architecture of **bioenergy sorghum**, utilizing **quantitative genetics, QTL mapping, and bioinformatics** to improve biomass production. I have also worked on **cotton genomics**, contributing to understanding the genetic mechanism underlying the naked seed phenotype in cotton.
 
 ## 🎓 Education  
-- **PhD (2025)**, University of Georgia, Athens, GA, USA *(Advisor: Dr. Andrew Paterson)*  
-- **MS (2019)**, University of Georgia, Athens, GA, USA *(Advisor: Dr. Andrew Paterson)*  
-- **BS (2015)**, Tribhuvan University, Nepal  
+- **PhD (2025), Plant breeding, genetics, and genomics**, University of Georgia, Athens, GA, USA *(Advisor: Dr. Andrew Paterson)*
+- **MS (2025), Statistics**, University of Georgia, Athens, GA, US
+- **MS (2019), Plant breeding, genetics, and genomics**, University of Georgia, Athens, GA, USA   
+- **BS (2015), Agriculture**, Tribhuvan University, Nepal  
 
 ## 🛠 Technical Skills  
 - **Bioinformatics Tools**: FastQC, Trimmomatic, BWA, Bowtie2, HISAT2, SAMtools, GATK, Bioconductor, Biopython  
