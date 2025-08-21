@@ -30,7 +30,7 @@ I'm a PhD candidate at the **University of Georgia**, specializing in **plant br
 
 ## 🌐 Connect with Me  
 📧 **Email**: deepakvitrakoti@uga.edu  
-🔗 **GitHub**: [github.com/deepakvitrakoti](https://github.com/yourusername) 
+🔗 **GitHub**: [github.com/deepakvitrakoti](https://github.com/deepakvitrakoti) 
 🔗 **LinkedIn**: [linkedin.com/in/deepakvitrakoti](https://www.linkedin.com/in/deepakvitrakoti)  
 
 
