@@ -1,8 +1,6 @@
 # Deepak Vitrakoti,Ph.D. | Plant Breeding, Genetics, and Genomics  
 
-Welcome to my GitHub page!  
-
-I'm a PhD candidate at the **University of Georgia**, specializing in **plant breeding, genetics, and genomics**. My research focuses on understanding the genetic architecture of **bioenergy sorghum**, utilizing **quantitative genetics, QTL mapping, and bioinformatics** to improve biomass production. I have also worked on **cotton genomics**, contributing to understanding the genetic mechanism underlying the naked seed phenotype in cotton.
+I am a plant geneticist and molecular breeder with expertise in quantitative genetics, genomics, and bioinformatics. My research interests include genomic selection, bioinformatics pipelines, and statistical modeling to dissect complex traits related to quality and disease resistance.
 
 ## 🎓 Education  
 - **PhD (2025), Plant breeding, genetics, and genomics**, University of Georgia, Athens, GA, USA *(Advisor: Dr. Andrew Paterson)*
@@ -20,7 +18,7 @@ I'm a PhD candidate at the **University of Georgia**, specializing in **plant br
 
 ## 💼 Professional Experience  
 - **Graduate Research Assistant** – The Plant Genome Mapping Lab, University of Georgia *(Aug 2016 – Present)*  
-- **Volunteer Consultant** – Statistical Consulting Center *(Aug 2020 – July 2021)*  
+- **Associate Consultant** – Statistical Consulting Center *(Aug 2020 –  May 2023)*  
 
 ## 🌱 Research Interests  
 - **Quantitative Genetics & QTL Mapping**  
