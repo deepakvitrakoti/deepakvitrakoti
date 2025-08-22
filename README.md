@@ -1,4 +1,4 @@
-# Deepak Vitrakoti | Plant Breeding, Genetics, and Genomics  
+# Deepak Vitrakoti,Ph.D. | Plant Breeding, Genetics, and Genomics  
 
 Welcome to my GitHub page!  
 
