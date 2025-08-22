@@ -21,10 +21,10 @@ I am a plant geneticist and molecular breeder with expertise in quantitative gen
 - **Associate Consultant** – Statistical Consulting Center *(Aug 2020 –  May 2023)*  
 
 ## 🌱 Research Interests  
-- **Quantitative Genetics & QTL Mapping**  
-- **Genomic Selection & GWAS**  
-- **Bioinformatics & High-Throughput Sequencing**  
-- **Crop Improvement (Sorghum & Cotton)**  
+- **Quantitative Genetics & Statistical Modeling**  
+- **Genomic Prediction/Selection & GWAS**  
+- **Bioinformatics & High-Throughput Computing**  
+- **Crop Improvement**  
 
 
 ## 🌐 Connect with Me  
