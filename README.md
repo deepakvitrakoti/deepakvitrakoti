@@ -1,4 +1,4 @@
-# Deepak Vitrakoti,Ph.D. | Plant Breeding, Genetics, and Genomics  
+# Deepak Vitrakoti,Ph.D. | Genetic Improvement, Genomics & Data-Driven Breeding
 
 I am a plant geneticist and molecular breeder with expertise in quantitative genetics, genomics, and bioinformatics. My research interests include genomic selection, bioinformatics pipelines, and statistical modeling to dissect complex traits related to quality and disease resistance.
 
